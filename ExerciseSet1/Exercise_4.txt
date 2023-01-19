@@ -15,5 +15,5 @@ We can represent this as a table
 5-bit: 1 1 1 1 1 1 1 1 2  2  2  2  2  2  2  2  2  3  3  3
 4-bit: 1 1 1 1 1 1 1 1 1  1  1  1  1  1  1  1  2  2  2  2 
 
-Given that humans can detect abrubt changes between shades which differes with eight or more in intensity, we expect contouring to occur 
+Given that humans can detect abrubt changes between shades which differs with eight or more in intensity, we expect contouring to occur 
 at 5 bits or lower. At 5-bits, we have k= 2⁵ = 32
